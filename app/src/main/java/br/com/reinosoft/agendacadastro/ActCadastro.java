@@ -9,5 +9,7 @@ public class ActCadastro extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.act_cadastro);
+
+        //Teste de commit
     }
 }
